@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxDialog" name="LoadoutUiViewer">
+		<title>Loadout UI</title>
+		<centered>1</centered>
+		<size>243,103</size>
+		<id_arg>0</id_arg>
+		<object class="wxBoxSizer" variable="BoxSizer1" member="no">
+			<object class="sizeritem">
+				<object class="wxListBox" name="ID_LISTBOX1" variable="LoadoutUIListBox" member="yes">
+					<default>-1</default>
+					<size>157,140</size>
+				</object>
+				<flag>wxALL|wxALIGN_CENTER_HORIZONTAL|wxALIGN_CENTER_VERTICAL</flag>
+				<border>5</border>
+				<option>1</option>
+			</object>
+			<object class="sizeritem">
+				<object class="wxButton" name="ID_BUTTON1" variable="RunLoadoutButton" member="yes">
+					<label>Run</label>
+					<handler function="OnRunLoadoutButtonClick" entry="EVT_BUTTON" />
+				</object>
+				<flag>wxALL|wxALIGN_TOP</flag>
+				<border>5</border>
+			</object>
+		</object>
+	</object>
+</wxsmith>

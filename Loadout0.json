@@ -1,0 +1,363 @@
+{
+    "__type": "Loadout:#Everglades_LoadoutJSONDef",
+    "Squads": [
+        {
+            "Squad": [
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "recon"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ],
+            "ReconInfo": {
+                "Type": "active",
+                "Range": 3,
+                "Wavelength": 0.3
+            }
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ],
+            "ReconInfo": {
+                "Type": "active",
+                "Range": 1,
+                "Wavelength": 1.3
+            }
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                },
+                {
+                    "Type": "striker"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                },
+                {
+                    "Type": "tank"
+                }
+            ]
+        },
+        {
+            "Squad": [
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                },
+                {
+                    "Type": "controller"
+                }
+            ]
+        }
+    ]
+}
