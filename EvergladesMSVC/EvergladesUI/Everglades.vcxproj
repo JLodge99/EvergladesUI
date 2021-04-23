@@ -232,7 +232,7 @@
     <ClCompile>
       <AdditionalOptions>/MP %(AdditionalOptions)</AdditionalOptions>
       <Optimization>MaxSpeed</Optimization>
-      <AdditionalIncludeDirectories>C:\Users\Jrld1\AppData\Local\Programs\Python\Python38-32\include;$(WXWIN)\lib\vc_lib\mswu;$(WXWIN)\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(PYTHON)\include;$(WXWIN)\lib\vc_lib\mswu;$(WXWIN)\include</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW__;NDEBUG;_UNICODE;_WINDOWS;NOPCH;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ExceptionHandling>Sync</ExceptionHandling>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
