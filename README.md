@@ -38,7 +38,7 @@ Set **include** to `$(#wxwin)\include`
 
 Set **lib** to `$(#wxwin)\lib`
 
-![Global Variables wxwin](cbp_global_var_wxwin.png)
+![GlobalVariableswxwin](cbp_global_var_wxwin.PNG)
 
 Settings > Global variables > New > Create a variable `python`
 
@@ -48,7 +48,7 @@ Set **include** to `$(#python)\include`
 
 Set **lib** to `$(#python)\libs`
 
-![Global Variables python](cbp_global_var_python.png)
+![Global Variables python](cbp_global_var_python.PNG)
 
 ## Compile wxWidgets Libraries (MSVC)
 *NOTE: If you continue development through Visual Studio you will be unable to add any UI components since wxSmith is a codeblocks exclusive plugin*
