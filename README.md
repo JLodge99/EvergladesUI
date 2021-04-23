@@ -2,6 +2,9 @@
 
 EvergladesUI is a wxWidgets desktop application whose purpose is to interface with the Everglades AI Wargame Python Server
 
+* EvergladesMSVC - Visual Studio 2019 Project
+* EvergladesUI - Codeblocks Project
+
 ## Requirements
 * [wxWidgets 3.1.4](https://wxwidgets.org/)
     * [Direct Download](https://github.com/wxWidgets/wxWidgets/releases/download/v3.1.4/wxWidgets-3.1.4.zip)
